@@ -37,3 +37,14 @@
     font-size: 22px;
     margin-left: 15px;
 }
+
+@media (max-width: 575px) {
+    .sm-520{
+        margin: auto;
+        justify-content: center;
+    }
+    .search_box{
+        margin-top: 15px;
+        justify-content: center;
+    }
+}
